@@ -63,3 +63,7 @@ else:
 # if temperature is between 35 and 40, print "moderate fever"
 # if temperature is between 40 and 45, print "high fever"
 # else, print incorrect input
+
+
+# Expo
+temperature = int(input("Enter Temperature: "))
