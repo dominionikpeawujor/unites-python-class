@@ -15,11 +15,11 @@ number2 = 10
 # Identity Operators - is, is not
 
 # === COMPARISON OPERATIONS ===
-# print(number1 != number2) #False
-# print(number1 == number2) #True
-# print(number1 > number2) #False
-# print(number1 >= number2) #True
-# print(number1 <= number2) #True
+print(number1 != number2) #False
+print(number1 == number2) #True
+print(number1 > number2) #False
+print(number1 >= number2) #True
+print(number1 <= number2) #True
 
 
 # https://www.w3schools.com/python - Operators
@@ -31,17 +31,17 @@ number2 = 10
 
 
 # ========= IF SYNTAX =========
-# if(number1 == number2):
-#     print("Numbers are equal")
+if(number1 == number2):
+    print("Numbers are equal")
 
 # ====== IF-ELSE SYNTAX ====== 
-# name1 = 'habeeb'
-# print(name1 == 'daniel')
+name1 = 'habeeb'
+print(name1 == 'daniel')
 
-# if(name1 == 'daniel'):
-#     print('Welcome Daniel')
-# else:
-#     print("It is not daniel.")
+if(name1 == 'daniel'):
+    print('Welcome Daniel')
+else:
+    print("It is not daniel.")
 
 # ====== IF-ELIF-ELSE SYNTAX ======
 
